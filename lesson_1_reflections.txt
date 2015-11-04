@@ -1,0 +1,5 @@
+This is the reflections.txt file for recording my thoughts on what the sodding hell is going on
+Q How did viewing a diff between two version of a file help you see the bug that was introduced?
+A Made it easier to find as it was highlighted straight away rather than having to search manually through hundreds of lines of code.
+Q HOw could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+A By saving loads of time. Can go back or forward and see changes. What works whar does't. Looking for bugs
